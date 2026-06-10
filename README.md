@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 
 Aspiring Software Engineer passionate about AI, full-stack development, and high-performance systems.
 Currently building impactful projects, practicing DSA daily, and learning OS, CN, and scalable architectures.
@@ -6,14 +6,14 @@ Interested in automation, startups, finance-tech, and modern engineering workflo
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/vishal-singh--rajput)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:vishalsinghvr2020@gmail.com)
 
 ---
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 
 ### Languages
 
