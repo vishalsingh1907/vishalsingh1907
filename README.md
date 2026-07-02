@@ -6,4 +6,4 @@ I enjoy working across the full stack, exploring new technologies, and turning i
 
 Currently, I'm focused on expanding my skills in Python, full-stack development, and AI systems while building projects that combine clean engineering with practical utility.
 
-Currently working at kapoorengineers.in as a Digital Solution Inter
+Currently working at kapoorengineers.in as a Digital Solution Intern
