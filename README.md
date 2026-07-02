@@ -5,3 +5,5 @@ Hi, I'm **Vishal Singh**, a Computer Science undergraduate specializing in Artif
 I enjoy working across the full stack, exploring new technologies, and turning ideas into real products. My interests include AI, backend engineering, automation, developer tools, and modern web development. I build projects to learn deeply, solve real-world problems, and continuously improve as an engineer.
 
 Currently, I'm focused on expanding my skills in Python, full-stack development, and AI systems while building projects that combine clean engineering with practical utility.
+
+Currently working at kapoorengineers.in as a Digital Solution Inter
