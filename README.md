@@ -9,4 +9,4 @@ Currently, I'm focused on expanding my skills in Python, full-stack development,
 Ex-Intern at kapoorengineers.in 
 Built their official website 
 Made technical content for the company
-worked on Rag applications and Agentic Ai systems
+worked on Semantic Rag applications and Agentic Ai systems
