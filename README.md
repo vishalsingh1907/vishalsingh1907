@@ -7,3 +7,6 @@ I enjoy working across the full stack, exploring new technologies, and turning i
 Currently, I'm focused on expanding my skills in Python, full-stack development, and AI systems while building projects that combine clean engineering with practical utility.
 
 Ex-Intern at kapoorengineers.in 
+Built their official website 
+Made technical content for the company
+worked on Rag applications and Agentic Ai systems
