@@ -1,4 +1,4 @@
-I’m Vishal Singh, a software and AI developer building practical, end-to-end systems.
+I’m a software and AI developer building practical, end-to-end systems.
 
 My work focuses on RAG and knowledge systems, LLM applications, backend engineering, and infrastructure.
 
