@@ -4,7 +4,7 @@ My work focuses on RAG and knowledge systems, LLM applications, backend engineer
 
 Current Tech Stack
 
-Python • C++ • Go • Rust
+Python • C++
 RAG • LLMs • AI Agents
 Docker • Linux • Git
 Vector Databases • APIs • Backend Systems
